@@ -2,9 +2,9 @@
 
 
 
-## I'm a Competitive Programmer, Developer, and Hardware Engineer!!
+## I'm a Competitive Programmer and Full Stack Developer!!
 
-
+- ⚡ I'm 3⭐⭐⭐ star code on codechef.com
 - 🌱 I’m currently learning everything 🤣
 
 
@@ -13,7 +13,8 @@
 
 
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][codechef]
 
 
 <br />
@@ -48,3 +49,6 @@
 
 
 
+
+[linkedin]: https://www.linkedin.com/in/saurabh-kannaujia-4133b1151/
+[codechef]:https://www.codechef.com/users/joker9898
