@@ -4,7 +4,7 @@
 
 ## I'm a Competitive Programmer and Full Stack Developer!!
 
-- ⚡ I'm 3⭐⭐⭐ star code on codechef.com
+- ⚡ I'm 3⭐⭐⭐ star coder on codechef.com
 - 🌱 I’m currently learning everything 🤣
 
 
