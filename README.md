@@ -5,7 +5,7 @@
 ## I'm a Competitive Programmer and Full Stack Developer!!
 
 - ⚡ I'm 3⭐⭐⭐ star coder on codechef.com
-- 🌱 I’m currently learning DevOps 🤣
+- 🌱 I’m currently learning DevOps
 
 
 ### Connect with me:
